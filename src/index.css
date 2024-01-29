@@ -11,3 +11,36 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+* {
+  /* outline: 1px dotted  green; */
+}
+
+/* ********************* */
+/* HEADER */
+/* ********************* */
+
+.header {
+  display: flex;
+  justify-content: space-around; /* Adjust horizontally */
+  background-color: black;
+  align-items: center; /* Align vertically */
+  height: 60px;
+  font-weight: 700;
+}
+
+.my-name {
+  color: white;
+  align-items: flex-start;
+  font-size: 20px;
+}
+
+a {
+  color: rgb(122, 118, 118);
+  text-decoration: none;
+  padding: 0 80px;
+}
+
+.links{
+  margin-left: 800px;
+}
