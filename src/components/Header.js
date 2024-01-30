@@ -4,8 +4,8 @@ function Header(props) {
         <div className="header">
             <p className="my-name">AMRITA DUTTA</p>
             <div className="links">
-                <a className="github" href="https://github.com/amritadutta25">GITHUB</a>
-                <a className="linkedin" href="https://www.linkedin.com/in/amrita-dutta25">LINKEDIN</a>
+                <a className="social-link" href="https://github.com/amritadutta25">GITHUB</a>
+                <a className="social-link" href="https://www.linkedin.com/in/amrita-dutta25">LINKEDIN</a>
             </div>
         </div>
     )

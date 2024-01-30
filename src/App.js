@@ -6,8 +6,9 @@ import Main from './components/Main'
 
 function App() {
   return (
-    <div>
+    <div className="main-app">
       <Header />
+      <h2>Projects</h2>
       <Main />
       <Footer />
     </div>
