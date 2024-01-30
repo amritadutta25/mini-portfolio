@@ -19,17 +19,6 @@ function Projects(props) {
                 
                 </div>
             </div>
-            
-
-            {/* <div className="project-details">
-                
-                <p>{props.desc}</p>
-                <div className="project-links">
-                    <a className="button" href={props.code}>View Code</a>
-                    <a className="button" href={props.site}>View Website</a>
-                </div>
-                
-            </div> */}
 
         
         </div>
